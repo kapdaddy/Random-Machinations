@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Random Machinations
 tagline:          'Going Through Life'
-description:      'My personal blog - checkout more on my <a href="http://www.randommachinations.com/about" target="_blank">About</a> page. Currently using <a href="https://github.com/poole/lanyon" target="_blank">Lanyon</a>a reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'My personal blog - check out more on my <a href="http://www.randommachinations.com/about" target="_blank">About</a> page. Currently using <a href="https://github.com/poole/lanyon" target="_blank">Lanyon</a> a reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://www.randommachinations.com
 
 author:
