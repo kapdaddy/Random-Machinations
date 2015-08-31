@@ -7,14 +7,12 @@ Random Machinations is my own personal website to document my learnings about li
 
 I'll have posts about:
 
-*Web design
-*Graphic design and illustration
-*Coding (mainly Python)
-*Cooking
-*Work
-*Crochet
-*My experiments with the Raspberry Pi
-*News and opinions
-*All those random things you learn through life
-
-
+* Web design
+* Graphic design and illustration
+* Coding (mainly Python)
+* Cooking
+* Work
+* Crochet
+* My experiments with the Raspberry Pi
+* News and opinions
+* All those random things you learn through life
