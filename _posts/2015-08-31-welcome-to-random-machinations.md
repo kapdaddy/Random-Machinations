@@ -14,5 +14,5 @@ I'll have posts about:
 * Work
 * Crochet
 * My experiments with the Raspberry Pi
-* News and opinions
+* News, reviews and opinions
 * All those random things you learn through life
