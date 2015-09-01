@@ -15,4 +15,4 @@ I love screwfix! I ordered the heated towel rail and downlights from screwfix. D
 
 ### Painting ceilings
 
-My top tip - don't water down your paint. I gave the newly-plastered ceiling a coat of watered-down paint at first but this looked awful. Using the paint as it was from the tin worked so much better and with less chance of drips too. 
+My top tip - don't water down your paint. I gave the newly-plastered ceiling a coat of watered-down paint at first but this looked awful. Using the paint as it was from the tin worked so much better and with less chance of drips too. Also if you can, paint the ceiling when the room is empty.
