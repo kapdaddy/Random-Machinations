@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Betron DC950 Earphones Reviewed
-date: 2015-10-16 20:09
+date: 2015-11-10 20:09
 category: Technology
 tags: betron, earphones, review, technology, music
 ---
@@ -19,6 +19,7 @@ Here's a picture of the earphones:
 ### Features
 
 The listing on Amazon gives these features:
+
 * Gold plated 3.5mm plug
 * 3.93ft(1.2m) flat, tangle-free cable
 * Detachable cable - the earbuds can be removed from the cable 
